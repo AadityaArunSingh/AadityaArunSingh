@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi there, I'm Aaditya Singh! 👋	
+## Hi there, I'm Aaditya Singh! 👋	
 
 Data Wizard | Finding Meaningful Insights | Python/Java/Tableau/Power BI/Excel/SQL
 
