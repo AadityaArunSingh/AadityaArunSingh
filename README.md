@@ -2,7 +2,7 @@
 
 Data Wizard | Finding Meaningful Insights | Python/Java/Tableau/Power BI/Excel/SQL
 
-🔭 I'm currently interning at Vibgyor Group of Schools as a BI Intern, focusing on the 6 Steps of Data Analysis and building interactive dashboards.
+🔭 I'm currently interning at Rubix Data Sciences, focusing on building Automations to help streamline processes efficiently.
 
 🌱 I'm learning statistics for data science and exploring automating functions towards AI applications.
 
