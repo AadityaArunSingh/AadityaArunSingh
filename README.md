@@ -4,8 +4,6 @@ Data Wizard | Finding Meaningful Insights | Python/Java/Tableau/Power BI/Excel/S
 
 🔭 I'm currently pursuing my Masters at the University of Surrey, focusing on learning statistics for data science.
 
-🌱 I'm learning statistics for data science and exploring automating functions towards AI applications.
-
 💬 Ask me about my projects or anything related to data analysis and visualization!
 
 About Me  
