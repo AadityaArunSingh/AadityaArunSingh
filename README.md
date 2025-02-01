@@ -2,7 +2,7 @@
 
 Data Wizard | Finding Meaningful Insights | Python/Java/Tableau/Power BI/Excel/SQL
 
-🔭 I'm currently interning at Rubix Data Sciences, focusing on building Automations to help streamline processes efficiently.
+🔭 I'm currently pursuing my Masters at the University of Surrey, focusing on learning statistics for data science.
 
 🌱 I'm learning statistics for data science and exploring automating functions towards AI applications.
 
